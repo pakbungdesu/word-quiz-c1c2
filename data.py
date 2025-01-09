@@ -31,10 +31,8 @@ for word in c2_list:
         print("Error:", response.status_code, response.text)
 
 
-# Specify the file name
-file_name = 'c2_data.json'
 
-# Writing the data to a JSON file
+file_name = 'c2_data.json'
 with open(file_name, 'w') as json_file:
     json.dump(c2_data, json_file, indent=4)
 
@@ -60,10 +58,8 @@ for word in c1_list:
         print("Error:", response.status_code, response.text)
 
 
-# Specify the file name
-file_name = 'c1_data.json'
 
-# Writing the data to a JSON file
+file_name = 'c1_data.json'
 with open(file_name, 'w') as json_file:
     json.dump(c1_data, json_file, indent=4)
 
