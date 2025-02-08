@@ -5,13 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dfa582d6-1e51-4515-bc9b-14a492cae5c0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/false.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/true.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w1_clean.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w1_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w2_clean.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w2_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/word1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/word2.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c1_clean.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c1_data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c2_clean.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c2_data.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/clean.py" beforeDir="false" afterPath="$PROJECT_DIR$/clean.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/data.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myrect.png" beforeDir="false" afterPath="$PROJECT_DIR$/myrect.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myrect.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/myrect.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/octanove-vocabulary-profile-c1c2-1.0.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/program.py" beforeDir="false" afterPath="$PROJECT_DIR$/program.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ui.py" beforeDir="false" afterPath="$PROJECT_DIR$/ui.py" afterDir="false" />
     </list>
@@ -45,22 +56,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.activate_this.executor": "Run",
-    "Python.clean.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/User/OneDrive/Documents/100DaysofCode"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.activate_this.executor&quot;: &quot;Run&quot;,
+    &quot;Python.clean.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.read_txt.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/source/repos/word-quiz-c1c2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\source\repos\word-quiz-c1c2" />
       <recent name="C:\Users\User\source\repos\synonyms-antonyms-quiz-c1-c2\pythonProject" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\source\repos\word-quiz-c1c2\images" />
       <recent name="C:\Users\User\source\repos\word-quiz-c1c2" />
     </key>
   </component>

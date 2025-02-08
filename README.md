@@ -25,7 +25,7 @@ git clone https://github.com/pakbungdesu/word-quiz-c1c2.git
 Navigate to the project directory using your terminal:
 
 ```Bash
-cd word-quiz-c1c2
+cd wordQuiz-C2
 ```
 
 <h3>Run the main Python script:</h3>

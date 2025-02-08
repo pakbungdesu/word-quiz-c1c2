@@ -7,6 +7,8 @@ class QuizInterface:
         self.canvas = None
         self.txt = None
         self.blank = None
+        self.first = None
+        self.second = None
         self.img = None
         self.one = None
         self.two = None
@@ -30,8 +32,37 @@ class QuizInterface:
         self.canvas.delete("all")  # Clears everything on the canvas
         self.txt = self.canvas.create_text(x, y, text=txt, width=w, fill=color, font=fnt)
 
+    def home_button(self, t1, t2, cmd1, cmd2, color, highlight=0):
+        self.img = PhotoImage(file="images/myrect.png")
+        self.first = Button(
+            image=self.img,
+            text=t1,
+            compound="center",  # Places text on top of the image
+            highlightthickness=highlight,
+            command=cmd1,  # Assign the first command
+            bg=color,
+            activebackground=color,
+            borderwidth=0
+            )
+
+        self.first.grid(row=3, column=0, columnspan=2)
+
+        self.second = Button(
+            image=self.img,
+            text=t2,
+            compound="center",  # Places text on top of the image
+            highlightthickness=highlight,
+            command=cmd2,  # Assign the first command
+            bg=color,
+            activebackground=color,
+            borderwidth=0
+            )
+
+        self.second.grid(row=4, column=0, columnspan=2)
+
+
     def set_button(self, t1, t2, t3, t4, color, commands, highlight=0):
-        self.img = PhotoImage(file="myrect.png")
+        self.img = PhotoImage(file="images/myrect.png")
 
         self.one = Button(
             image=self.img,

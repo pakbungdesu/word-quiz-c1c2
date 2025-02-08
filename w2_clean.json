@@ -1,0 +1,1026 @@
+[
+    {
+        "word": "abstruse",
+        "meaning": "Difficult to understand; obscure.",
+        "synonyms": [
+            "esoteric",
+            "profound",
+            "recondite",
+            "ambiguous",
+            "arcane"
+        ],
+        "antonyms": [
+            "superficial",
+            "shallow",
+            "simple",
+            "easy",
+            "straightforward"
+        ]
+    },
+    {
+        "word": "adroit",
+        "meaning": "Skillful, clever, or resourceful.",
+        "synonyms": [
+            "virtuoso",
+            "skillful",
+            "masterful",
+            "expert",
+            "delicate"
+        ],
+        "antonyms": [
+            "amateur",
+            "crude",
+            "artless",
+            "rude",
+            "amateurish"
+        ]
+    },
+    {
+        "word": "aegis",
+        "meaning": "Protection or backing by an organization or person.",
+        "synonyms": [
+            "protection",
+            "shield",
+            "cover",
+            "defense",
+            "armor"
+        ],
+        "antonyms": [
+            "attack",
+            "assault",
+            "aggression",
+            "offense",
+            "offence"
+        ]
+    },
+    {
+        "word": "anathema",
+        "meaning": "A person or thing intensely disliked or cursed.",
+        "synonyms": [
+            "curse",
+            "ban",
+            "condemnation",
+            "malediction",
+            "imprecation"
+        ],
+        "antonyms": [
+            "blessing",
+            "benediction",
+            "endorsement",
+            "citation",
+            "benison"
+        ]
+    },
+    {
+        "word": "aspersion",
+        "meaning": "A damaging or derogatory remark.",
+        "synonyms": [
+            "criticism",
+            "dart",
+            "attack",
+            "name",
+            "calumny"
+        ],
+        "antonyms": [
+            "praise",
+            "applause",
+            "respect",
+            "acclaim",
+            "commendation"
+        ]
+    },
+    {
+        "word": "beguile",
+        "meaning": "To charm or deceive in a cunning way.",
+        "synonyms": [
+            "fascinate",
+            "entice",
+            "enchant",
+            "delight",
+            "seduce"
+        ],
+        "antonyms": [
+            "offend",
+            "revolt",
+            "repel",
+            "annoy",
+            "bore"
+        ]
+    },
+    {
+        "word": "blandishment",
+        "meaning": "Flattering or persuasive speech meant to influence.",
+        "synonyms": [
+            "cajolery",
+            "charming",
+            "charm",
+            "urging",
+            "flattery"
+        ],
+        "antonyms": [
+            "disparagement",
+            "depreciation",
+            "belittlement",
+            "detraction",
+            "bad-mouthing"
+        ]
+    },
+    {
+        "word": "chicanery",
+        "meaning": "Deception or trickery for personal gain.",
+        "synonyms": [
+            "deception",
+            "treachery",
+            "skullduggery",
+            "subterfuge",
+            "skulduggery"
+        ],
+        "antonyms": [
+            "sincerity",
+            "artlessness",
+            "forthrightness",
+            "ingenuousness",
+            "guilelessness"
+        ]
+    },
+    {
+        "word": "clandestine",
+        "meaning": "Kept secret or done covertly.",
+        "synonyms": [
+            "undercover",
+            "covert",
+            "underground",
+            "sneak",
+            "private"
+        ],
+        "antonyms": [
+            "public",
+            "overt",
+            "open",
+            "avowed",
+            "acknowledged"
+        ]
+    },
+    {
+        "word": "connive",
+        "meaning": "To secretly allow wrongdoing.",
+        "synonyms": [
+            "ignore",
+            "wink",
+            "tolerate",
+            "forgive",
+            "disregard"
+        ],
+        "antonyms": [
+            "refuse",
+            "deny",
+            "disapprove (of)",
+            "frown (on or upon)",
+            "disallow"
+        ]
+    },
+    {
+        "word": "contumacious",
+        "meaning": "Stubbornly disobedient.",
+        "synonyms": [
+            "rebellious",
+            "rebel",
+            "defiant",
+            "willful",
+            "stubborn"
+        ],
+        "antonyms": [
+            "obedient",
+            "submissive",
+            "docile",
+            "amiable",
+            "cooperative"
+        ]
+    },
+    {
+        "word": "corroborate",
+        "meaning": "To confirm or support with evidence.",
+        "synonyms": [
+            "confirm",
+            "verify",
+            "argue",
+            "support",
+            "validate"
+        ],
+        "antonyms": [
+            "refute",
+            "disprove",
+            "rebut",
+            "contradict",
+            "deny"
+        ]
+    },
+    {
+        "word": "cupidity",
+        "meaning": "Excessive greed, especially for money.",
+        "synonyms": [
+            "greed",
+            "avarice",
+            "rapacity",
+            "greediness",
+            "acquisitiveness"
+        ],
+        "antonyms": [
+            "satisfaction",
+            "gratification",
+            "contentment",
+            "fulfilment",
+            "fulfillment"
+        ]
+    },
+    {
+        "word": "debacle",
+        "meaning": "A complete failure or disaster.",
+        "synonyms": [
+            "disaster",
+            "catastrophe",
+            "tragedy",
+            "calamity",
+            "collapse"
+        ],
+        "antonyms": [
+            "windfall",
+            "manna",
+            "godsend",
+            "windfall",
+            "manna"
+        ]
+    },
+    {
+        "word": "desultory",
+        "meaning": "Lacking a clear plan or purpose.",
+        "synonyms": [
+            "random",
+            "scattered",
+            "arbitrary",
+            "erratic",
+            "stray"
+        ],
+        "antonyms": [
+            "systematic",
+            "regular",
+            "regular",
+            "methodical",
+            "orderly"
+        ]
+    },
+    {
+        "word": "disquietude",
+        "meaning": "A state of uneasiness or anxiety.",
+        "synonyms": [
+            "fear",
+            "anxiety",
+            "concern",
+            "worry",
+            "unease"
+        ],
+        "antonyms": [
+            "unconcern",
+            "tranquillity",
+            "contentment",
+            "ease",
+            "peace"
+        ]
+    },
+    {
+        "word": "dyspeptic",
+        "meaning": "Gloomy, pessimistic, or irritable.",
+        "synonyms": [
+            "irritable",
+            "angry",
+            "bilious",
+            "splenetic",
+            "cantankerous"
+        ],
+        "antonyms": [
+            "amiable",
+            "congenial",
+            "pleasant",
+            "friendly",
+            "agreeable"
+        ]
+    },
+    {
+        "word": "eclectic",
+        "meaning": "Deriving ideas or styles from a variety of sources.",
+        "synonyms": [
+            "varied",
+            "diverse",
+            "mixed",
+            "assorted",
+            "heterogeneous"
+        ],
+        "antonyms": [
+            "homogeneous",
+            "same",
+            "uniform",
+            "like",
+            "identical"
+        ]
+    },
+    {
+        "word": "effrontery",
+        "meaning": "Shameless boldness or audacity.",
+        "synonyms": [
+            "gall",
+            "nerve",
+            "arrogance",
+            "audacity",
+            "temerity"
+        ],
+        "antonyms": [
+            "timidity",
+            "modesty",
+            "diffidence",
+            "hesitancy",
+            "bashfulness"
+        ]
+    },
+    {
+        "word": "encomium",
+        "meaning": "A speech or writing that praises highly.",
+        "synonyms": [
+            "tribute",
+            "commendation",
+            "citation",
+            "panegyric",
+            "accolade"
+        ],
+        "antonyms": [
+            "condemnation",
+            "indictment",
+            "denunciation",
+            "censure",
+            "rebuke"
+        ]
+    },
+    {
+        "word": "exculpate",
+        "meaning": "To clear from blame or guilt.",
+        "synonyms": [
+            "acquit",
+            "exonerate",
+            "absolve",
+            "vindicate",
+            "clear"
+        ],
+        "antonyms": [
+            "incriminate",
+            "accuse",
+            "charge",
+            "impeach",
+            "indict"
+        ]
+    },
+    {
+        "word": "fastidious",
+        "meaning": "Very attentive to detail; difficult to please.",
+        "synonyms": [
+            "careful",
+            "nice",
+            "particular",
+            "finicky",
+            "exacting"
+        ],
+        "antonyms": [
+            "undemanding",
+            "affable",
+            "carefree",
+            "lackadaisical",
+            "flexible"
+        ]
+    },
+    {
+        "word": "feckless",
+        "meaning": "Lacking initiative or responsibility.",
+        "synonyms": [
+            "unsuccessful",
+            "inefficient",
+            "ineffectual",
+            "counterproductive",
+            "ineffective"
+        ],
+        "antonyms": [
+            "effective",
+            "efficient",
+            "expedient",
+            "efficacious",
+            "effectual"
+        ]
+    },
+    {
+        "word": "fulsome",
+        "meaning": "Excessively flattering to the point of insincerity.",
+        "synonyms": [
+            "sickening",
+            "hagiographical",
+            "gushy",
+            "abundant",
+            "unctuous"
+        ],
+        "antonyms": [
+            "genuine",
+            "earnest",
+            "sincere",
+            "honest",
+            "heartfelt"
+        ]
+    },
+    {
+        "word": "garrulous",
+        "meaning": "Excessively talkative, especially about trivial matters.",
+        "synonyms": [
+            "talkative",
+            "loquacious",
+            "conversational",
+            "outspoken",
+            "communicative"
+        ],
+        "antonyms": [
+            "laconic",
+            "taciturn",
+            "reticent",
+            "uncommunicative",
+            "reserved"
+        ]
+    },
+    {
+        "word": "hegemonic",
+        "meaning": "Dominating or exerting control over others.",
+        "synonyms": [
+            "domination",
+            "dominance",
+            "supremacy",
+            "dominion",
+            "sovereignty"
+        ],
+        "antonyms": [
+            "weakness",
+            "helplessness",
+            "impotence",
+            "powerlessness",
+            "impotency"
+        ]
+    },
+    {
+        "word": "impecunious",
+        "meaning": "Having little or no money.",
+        "synonyms": [
+            "impoverished",
+            "poor",
+            "broke",
+            "penurious",
+            "penniless"
+        ],
+        "antonyms": [
+            "wealthy",
+            "affluent",
+            "rich",
+            "moneyed",
+            "well-to-do"
+        ]
+    },
+    {
+        "word": "imperious",
+        "meaning": "Arrogantly domineering or overbearing.",
+        "synonyms": [
+            "authoritarian",
+            "domineering",
+            "arrogant",
+            "authoritative",
+            "autocratic"
+        ],
+        "antonyms": [
+            "humble",
+            "modest",
+            "meek",
+            "unassuming",
+            "obedient"
+        ]
+    },
+    {
+        "word": "indefatigable",
+        "meaning": "Tireless and persistent.",
+        "synonyms": [
+            "meticulous",
+            "tireless",
+            "relentless",
+            "untiring",
+            "unflagging"
+        ],
+        "antonyms": [
+            "sluggish",
+            "lazy",
+            "indolent",
+            "lackadaisical",
+            "listless"
+        ]
+    },
+    {
+        "word": "inimical",
+        "meaning": "Harmful or hostile.",
+        "synonyms": [
+            "hostile",
+            "negative",
+            "adverse",
+            "antagonistic",
+            "opposed"
+        ],
+        "antonyms": [
+            "sympathetic",
+            "friendly",
+            "hospitable",
+            "social",
+            "pleasant"
+        ]
+    },
+    {
+        "word": "internecine",
+        "meaning": "Relating to conflict within a group.",
+        "synonyms": [
+            "bloody",
+            "murderous",
+            "deadly",
+            "sanguinary",
+            "killer"
+        ],
+        "antonyms": [
+            "salutary",
+            "beneficial",
+            "salubrious",
+            "remedial",
+            "restorative"
+        ]
+    },
+    {
+        "word": "lachrymose",
+        "meaning": "Tearful or prone to weeping.",
+        "synonyms": [
+            "emotional",
+            "tearful",
+            "weeping",
+            "crying",
+            "weepy"
+        ],
+        "antonyms": [
+            "smiling",
+            "laughing",
+            "grinning",
+            "beaming",
+            "cheerful"
+        ]
+    },
+    {
+        "word": "languor",
+        "meaning": "A state of physical or mental weariness.",
+        "synonyms": [
+            "boredom",
+            "lethargy",
+            "stupor",
+            "lassitude",
+            "torpor"
+        ],
+        "antonyms": [
+            "vigor",
+            "vitality",
+            "vivacity",
+            "enthusiasm",
+            "eagerness"
+        ]
+    },
+    {
+        "word": "limpid",
+        "meaning": "Clear and transparent.",
+        "synonyms": [
+            "crystal",
+            "transparent",
+            "liquid",
+            "clear",
+            "crystalline"
+        ],
+        "antonyms": [
+            "opaque",
+            "cloudy",
+            "colored",
+            "dark",
+            "tinted"
+        ]
+    },
+    {
+        "word": "meretricious",
+        "meaning": "Attractive in a flashy but cheap way.",
+        "synonyms": [
+            "conspicuous",
+            "remarkable",
+            "brilliant",
+            "loud",
+            "noticeable"
+        ],
+        "antonyms": [
+            "subtle",
+            "obscure",
+            "hidden",
+            "unimportant",
+            "dim"
+        ]
+    },
+    {
+        "word": "mollify",
+        "meaning": "To calm or soothe.",
+        "synonyms": [
+            "appease",
+            "placate",
+            "soothe",
+            "pacify",
+            "comfort"
+        ],
+        "antonyms": [
+            "anger",
+            "infuriate",
+            "inflame",
+            "outrage",
+            "enrage"
+        ]
+    },
+    {
+        "word": "nascent",
+        "meaning": "Just beginning to develop.",
+        "synonyms": [
+            "initial",
+            "first",
+            "incipient",
+            "budding",
+            "inchoate"
+        ],
+        "antonyms": [
+            "mature",
+            "ripe",
+            "adult",
+            "higher",
+            "full-fledged"
+        ]
+    },
+    {
+        "word": "nonplussed",
+        "meaning": "Completely confused or bewildered.",
+        "synonyms": [
+            "perplexed",
+            "bewildered",
+            "baffled",
+            "embarrassed",
+            "flustered"
+        ],
+        "antonyms": [
+            "undaunted",
+            "unfazed",
+            "composed",
+            "untroubled",
+            "relieved"
+        ]
+    },
+    {
+        "word": "obstreperous",
+        "meaning": "Noisy and difficult to control.",
+        "synonyms": [
+            "outspoken",
+            "vocal",
+            "vociferous",
+            "blatant",
+            "noisy"
+        ],
+        "antonyms": [
+            "silent",
+            "quiet",
+            "still",
+            "calm",
+            "noiseless"
+        ]
+    },
+    {
+        "word": "opprobrium",
+        "meaning": "Harsh criticism or public disgrace.",
+        "synonyms": [
+            "scandal",
+            "disgrace",
+            "reflection",
+            "stain",
+            "dishonor"
+        ],
+        "antonyms": [
+            "credit",
+            "honor",
+            "glory",
+            "pride",
+            "treasure"
+        ]
+    },
+    {
+        "word": "pellucid",
+        "meaning": "Clear and easy to understand.",
+        "synonyms": [
+            "crystal",
+            "transparent",
+            "liquid",
+            "clear",
+            "crystalline"
+        ],
+        "antonyms": [
+            "opaque",
+            "cloudy",
+            "colored",
+            "dark",
+            "tinted"
+        ]
+    },
+    {
+        "word": "penury",
+        "meaning": "Extreme poverty.",
+        "synonyms": [
+            "poverty",
+            "misery",
+            "impoverishment",
+            "beggary",
+            "indigence"
+        ],
+        "antonyms": [
+            "wealth",
+            "affluence",
+            "opulence",
+            "richness",
+            "prosperity"
+        ]
+    },
+    {
+        "word": "perfunctory",
+        "meaning": "Carried out with minimal effort or reflection.",
+        "synonyms": [
+            "nonchalant",
+            "casual",
+            "disinterested",
+            "careless",
+            "uninterested"
+        ],
+        "antonyms": [
+            "interested",
+            "concerned",
+            "aware",
+            "conscientious",
+            "attentive"
+        ]
+    },
+    {
+        "word": "piquant",
+        "meaning": "Pleasantly spicy or stimulating.",
+        "synonyms": [
+            "spicy",
+            "pungent",
+            "poignant",
+            "savoury",
+            "zesty"
+        ],
+        "antonyms": [
+            "insipid",
+            "dry",
+            "flat",
+            "tasteless",
+            "predictable"
+        ]
+    },
+    {
+        "word": "plethora",
+        "meaning": "An excess or overabundance.",
+        "synonyms": [
+            "plenty",
+            "abundance",
+            "wealth",
+            "plenitude",
+            "superabundance"
+        ],
+        "antonyms": [
+            "deficiency",
+            "insufficiency",
+            "inadequacy",
+            "paucity",
+            "scarcity"
+        ]
+    },
+    {
+        "word": "precipitous",
+        "meaning": "Dangerously steep or sudden.",
+        "synonyms": [
+            "hurried",
+            "rushed",
+            "sudden",
+            "impulsive",
+            "headlong"
+        ],
+        "antonyms": [
+            "deliberate",
+            "unhurried",
+            "calculated",
+            "prolonged",
+            "measured"
+        ]
+    },
+    {
+        "word": "puerile",
+        "meaning": "Childish or immature.",
+        "synonyms": [
+            "childish",
+            "immature",
+            "adolescent",
+            "juvenile",
+            "infantile"
+        ],
+        "antonyms": [
+            "mature",
+            "adult",
+            "sophisticated",
+            "grown-up",
+            "worldly"
+        ]
+    },
+    {
+        "word": "querulous",
+        "meaning": "Complaining in a whining manner.",
+        "synonyms": [
+            "restless",
+            "irritable",
+            "grumpy",
+            "displeased",
+            "grouchy"
+        ],
+        "antonyms": [
+            "stoical",
+            "patient",
+            "uncomplaining",
+            "stoic",
+            "tolerant"
+        ]
+    },
+    {
+        "word": "quiescent",
+        "meaning": "In a state of inactivity.",
+        "synonyms": [
+            "sleepy",
+            "inactive",
+            "inert",
+            "torpid",
+            "dull"
+        ],
+        "antonyms": [
+            "active",
+            "engaged",
+            "busy",
+            "occupied",
+            "dynamic"
+        ]
+    },
+    {
+        "word": "recalcitrant",
+        "meaning": "Resistant to authority.",
+        "synonyms": [
+            "rebellious",
+            "rebel",
+            "defiant",
+            "stubborn",
+            "intractable"
+        ],
+        "antonyms": [
+            "obedient",
+            "cooperative",
+            "docile",
+            "amenable",
+            "compliant"
+        ]
+    },
+    {
+        "word": "redundant",
+        "meaning": "Excessive or unnecessary.",
+        "synonyms": [
+            "extra",
+            "surplus",
+            "excess",
+            "spare",
+            "superfluous"
+        ],
+        "antonyms": [
+            "inadequate",
+            "insufficient",
+            "short",
+            "deficient",
+            "sparse"
+        ]
+    },
+    {
+        "word": "reprobate",
+        "meaning": "An unprincipled person.",
+        "synonyms": [
+            "corrupt",
+            "degraded",
+            "sick",
+            "depraved",
+            "degenerate"
+        ],
+        "antonyms": [
+            "pure",
+            "incorruptible",
+            "uncorrupted",
+            "ethical",
+            "uncorrupt"
+        ]
+    },
+    {
+        "word": "resplendent",
+        "meaning": "Shining brilliantly.",
+        "synonyms": [
+            "magnificent",
+            "glorious",
+            "beautiful",
+            "gorgeous",
+            "elegant"
+        ],
+        "antonyms": [
+            "unpleasant",
+            "unprepossessing",
+            "unappealing",
+            "unappetizing",
+            "unimposing"
+        ]
+    },
+    {
+        "word": "sinuous",
+        "meaning": "Having many curves or turns.",
+        "synonyms": [
+            "curved",
+            "winding",
+            "curving",
+            "serpentine",
+            "twisted"
+        ],
+        "antonyms": [
+            "straight",
+            "linear",
+            "direct",
+            "straightaway",
+            "straight"
+        ]
+    },
+    {
+        "word": "somnolent",
+        "meaning": "Sleepy or drowsy.",
+        "synonyms": [
+            "sleepy",
+            "sleeping",
+            "resting",
+            "drowsy",
+            "slumberous"
+        ],
+        "antonyms": [
+            "conscious",
+            "awake",
+            "wakeful",
+            "alert",
+            "wide-awake"
+        ]
+    },
+    {
+        "word": "surfeit",
+        "meaning": "An excessive amount.",
+        "synonyms": [
+            "surplus",
+            "excess",
+            "abundance",
+            "overflow",
+            "overabundance"
+        ],
+        "antonyms": [
+            "deficiency",
+            "deficit",
+            "insufficiency",
+            "lack",
+            "scarcity"
+        ]
+    },
+    {
+        "word": "turgid",
+        "meaning": "Swollen or overly complex in language.",
+        "synonyms": [
+            "swollen",
+            "distended",
+            "blown",
+            "bloated",
+            "tumescent"
+        ],
+        "antonyms": [
+            "collapsed",
+            "deflated",
+            "detumescent"
+        ]
+    }
+]

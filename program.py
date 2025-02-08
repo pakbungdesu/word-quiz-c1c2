@@ -2,17 +2,20 @@
 import random
 
 class QuizBrian:
-    def __init__(self, data):
+    def __init__(self, data, idx):
         self.data = data
-        self.idx = None
+        self.idx = idx
         self.guess = None
+        self.meaning = None
         self.ans = None
         self.other = None
         self.txt = None
 
     def setWord(self):
-        self.idx = random.randint(0, len(self.data) - 1)
         self.guess = self.data[self.idx]["word"]
+
+    def setMeaning(self):
+        self.meaning = self.data[self.idx]["meaning"]
 
     def setAnswer(self, choice):  # 1 for synonym, 0 for antonym
         if choice == 1:
@@ -33,9 +36,11 @@ class QuizBrian:
                 else:
                     self.other.append(random.choice(self.data[rand_idx]["antonyms"]))
 
-
     def getGuess(self):
         return self.guess
+
+    def getMeaning(self):
+        return self.meaning
 
     def getAnswer(self):
         return self.ans

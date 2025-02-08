@@ -1,51 +1,38 @@
 
 import json
 
-with open("c1_data.json", "r") as file:
-    c1 = json.load(file)
-
-with open("c1_data.json", "r") as file:
-    c2 = json.load(file)
-
-
-c1_dict = []
-c2_dict = []
-for ele in c1:
-    yes = True
-    if ele["synonyms"] != [] and ele["antonyms"] != []:
-        if "" in ele["synonyms"]:
-            yes = False
-        if "" in ele["antonyms"]:
-            yes = False
-    else:
-        yes = False
-
-    if yes:
-        c1_dict.append(ele)
-
-for ele in c2:
-    yes = True
-    if ele["synonyms"] != [] and ele["antonyms"] != []:
-        if "" in ele["synonyms"]:
-            yes = False
-        if "" in ele["antonyms"]:
-            yes = False
-    else:
-        yes = False
-
-    if yes:
-        c2_dict.append(ele)
+# ------------------ FUNCTION ---------------------- #
+def loadjson(filename):
+    """Load json from json file"""
+    with open(filename, "r") as file:
+        jsonf = json.load(file)
+    return jsonf
 
 
-file_name = "c2_clean.json"
-with open(file_name, "w") as json_file:
-    json.dump(c2_dict, json_file, indent=4)
-
-print(f"Data has been written to {file_name}")
-
-file_name = "c1_clean.json"
-with open(file_name, "w") as json_file:
-    json.dump(c1_dict, json_file, indent=4)
+def writejson(filename, listdict):
+    """Write final clean json from list of dictionary"""
+    with open(filename, "w") as jsonf:
+        json.dump(listdict, jsonf, indent=4)
+    print(f"Data has been written to {filename}")
 
 
-print(f"Data has been written to {file_name}")
+# ------------------ PROCESS---------------------- #
+w1 = loadjson("w1_data.json")
+w2 = loadjson("w2_data.json")
+
+w1 = [{"word": ele["word"], "meaning": ele["meaning"],
+       "synonyms": ele["synonyms"], "antonyms": ele["antonyms"][:5]}
+      for ele in w1 if ele["synonyms"] != [] and
+      ele["antonyms"] != [] and
+      "" not in ele["synonyms"] and
+      "" not in ele["antonyms"]]
+
+w2 = [{"word": ele["word"], "meaning": ele["meaning"],
+       "synonyms": ele["synonyms"], "antonyms": ele["antonyms"][:5]}
+      for ele in w2 if ele["synonyms"] != [] and
+      ele["antonyms"] != [] and
+      "" not in ele["synonyms"] and
+      "" not in ele["antonyms"]]
+
+writejson("w1_clean.json", w1)
+writejson("w2_clean.json", w2)
